@@ -1,0 +1,106 @@
+#az{
+    /* border: 2px solid red; */
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    top: 3580px;
+    background-color: #fafafccc;
+}
+
+#az #a{
+    padding-left: 230px;
+    padding-right: 250px;
+    padding-top: 25px;
+    font-size: 12px;
+    color: rgb(128, 128, 128);
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+#foott{
+    display: flex;
+    padding-left: 240px;
+    padding-right: 250px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 2.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    flex-wrap: nowrap;
+}
+#foott #foo1 h3{
+    color: #000;
+}
+#foott #foo1{
+   color: rgb(128, 128, 128);
+    margin-left:  10px;;
+}
+#foott #foo2 h3{
+    color: #000;
+}
+#foott #foo2{
+    margin-left: 100px;
+    color: rgb(128, 128, 128);
+}
+#foott #foo3 h3{
+    color: #000;
+}
+#foott #foo3{
+    margin-left: 100px;
+    color: rgb(128, 128, 128);
+}
+#foott #foo4{
+    margin-left: 80px;
+    color: rgb(128, 128, 128);
+}
+#foott #foo4 h3{
+    color: hsl(0, 7%, 5%);
+}
+#foott #foo5{
+    margin-left: 100px;
+    color: rgb(128, 128, 128);
+}
+#foott #foo5 h3{
+    color: rgba(0, 0, 0, 0.88);;
+}
+
+#foot{
+    margin-left: 250px;
+    font-size: 12px;
+    line-height: 2.3333733333;
+    font-weight: 400;
+    color: rgb(128, 128, 128);
+}
+#foot a{
+    color: #0071e3;
+}
+hr{
+    
+    width: 70%;
+    margin-left: 200px;
+    color: rgb(128, 128, 128);
+}
+#footer{
+    color: rgb(128, 128, 128);
+    font-size: 12px;
+    line-height: 1.3333333;
+    font-weight: 400;
+    display: flex;
+    margin-left: 250px;
+    margin-right: 200px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;  
+}
+#footer p+p{
+    padding-left: 30px;
+}
+#footer aside{
+    position: absolute;
+    left: 1200px;
+}
+
+
